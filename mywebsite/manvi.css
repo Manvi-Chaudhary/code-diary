@@ -1,0 +1,67 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+            
+    min-height: 100vh;
+    
+}
+.main h1{
+    padding-left: 0%;
+    padding-top: 0%;
+    font-family:'Source Code Pro', monospace;
+    font-weight: 800;
+    letter-spacing: 5px;
+    line-height: 80px;
+    color: aliceblue;
+    
+    
+}
+.main{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    background: url(hilly-2572197.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+}
+nav{
+    display: flex;
+    background-color:antiquewhite;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 60px;
+    letter-spacing: 4px;
+    font-size: x-large;
+    font-weight: 800;
+    color: rgb(124, 129, 133);
+    list-style: none;
+
+
+}
+header{
+    padding-right: 16px;
+    padding-left: 16px;
+    background-color: antiquewhite;
+}
+.n2{
+    list-style: none;
+    color:rgb(119, 119, 109);
+    text-decoration: none;
+    font: size 2px;;
+    font-weight: 200;
+
+
+}
+.n1{
+    list-style: none;
+}
+    
+    
+
