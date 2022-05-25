@@ -1,5 +1,4 @@
-# code-diary
-This repository have code related to development and DSA coding practices.
+# website 1
 
 This is my first project in website development
 This is an "about me" website 
